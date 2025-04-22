@@ -1,5 +1,3 @@
-# Proyek-puzzle-presiden
-kelas 2
 # 🧩 Puzzle Jigsaw Edukasi: Presiden Soekarno 🇮🇩
 
 Selamat datang di proyek **Puzzle Jigsaw Presiden Soekarno**!  
@@ -30,7 +28,7 @@ Puzzle ini berisi gambar Presiden Soekarno yang telah dipecah menjadi potongan-p
 
 Klik tombol di bawah ini untuk mengunduh dan mencetak puzzle:
 
-[![Download Puzzle Jigsaw Soekarno](https://img.shields.io/badge/Download-Puzzle%20Soekarno-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/your-puzzle-link-di-sini)
+[![Download Puzzle Jigsaw Soekarno](https://puzzel.org/id/jigsaw/play?p=-OOQop_x0v_AVWKyvNDL)
 
 ---
 
@@ -45,7 +43,7 @@ Klik tombol di bawah ini untuk mengunduh dan mencetak puzzle:
 
 ## 📸 Contoh Tampilan Puzzle
 
-![Contoh Puzzle Soekarno](https://link-gambar-puzzle-kecil.jpg)
+![Contoh Puzzle Soekarno](https://sl.bing.net/hCPzo0NYgNw)
 
 ---
 
