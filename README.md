@@ -28,9 +28,8 @@ Puzzle ini berisi gambar Presiden Soekarno yang telah dipecah menjadi potongan-p
 
 Klik tombol di bawah ini untuk mengunduh dan mencetak puzzle:
 
-[![Download Puzzle Jigsaw Soekarno](https://puzzel.org/id/jigsaw/play?p=-OOQwbFBKPO-BkGCo2Ed)
 
----
+
 
 ## 📝 Petunjuk Penggunaan
 
@@ -54,5 +53,10 @@ Sebagai bagian dari pembelajaran **Tematik – Pahlawanku**
 Tema 5 – "Pengalamanku"
 
 ---
-
 📚 _"Belajar tak harus membosankan. Mari kenalkan pahlawan dengan cara menyenangkan."_ 🇮🇩
+
+
+link puzzle
+
+
+https://puzzel.org/id/jigsaw/play?p=-OOQyg02QbhAdOu4gKc4
