@@ -28,7 +28,7 @@ Puzzle ini berisi gambar Presiden Soekarno yang telah dipecah menjadi potongan-p
 
 Klik tombol di bawah ini untuk mengunduh dan mencetak puzzle:
 
-[![Download Puzzle Jigsaw Soekarno](https://puzzel.org/id/jigsaw/play?p=-OOQop_x0v_AVWKyvNDL)
+[![Download Puzzle Jigsaw Soekarno](https://puzzel.org/id/jigsaw/play?p=-OOQwbFBKPO-BkGCo2Ed)
 
 ---
 
@@ -43,7 +43,7 @@ Klik tombol di bawah ini untuk mengunduh dan mencetak puzzle:
 
 ## 📸 Contoh Tampilan Puzzle
 
-![Contoh Puzzle Soekarno](https://sl.bing.net/hCPzo0NYgNw)
+![Contoh Puzzle Soekarno](https://www.bing.com/ck/a?!&&p=88d7dd8a07652258aeb905118080496a2113789816b66ed4651d5fbad88bf7d0JmltdHM9MTc0NTE5MzYwMA&ptn=3&ver=2&hsh=4&fclid=034be240-0671-6bfc-2ff4-f63707276ae0&u=a1L2ltYWdlcy9zZWFyY2g_cT1mb3RvJTIwc29la2Fybm8lMjBrYXJ0dW4mRk9STT1JUUZSQkEmaWQ9MDYyQzgxMkVCQ0VDM0Y4NDAxNTZDNzcwQTRDNTc2RDYzMjM5QUIxRg&ntb=1))
 
 ---
 
