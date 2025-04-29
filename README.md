@@ -1,4 +1,4 @@
-# 🧩 Puzzle Jigsaw Edukasi: Presiden Soekarno 🇮🇩
+# 🧩 Puzzle Jigsaw Edukasi: Presiden Soekarno
 
 Selamat datang di proyek *Puzzle Jigsaw Presiden Soekarno*!  
 Proyek ini dirancang untuk siswa *kelas 2 Sekolah Dasar* guna mengenal *tokoh pahlawan nasional Indonesia, khususnya **Presiden pertama Republik Indonesia*, Ir. Soekarno, dengan cara yang menyenangkan dan interaktif!
